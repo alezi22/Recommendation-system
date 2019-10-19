@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment1.params=filename
+comment1.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment2.params=filename
+comment2.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment3.params=filename\ RaterID
+comment3.target=void\ findNumOfRater(java.lang.String,\ java.lang.String)
+comment4.params=filename
+comment4.target=void\ findMaxNumOfRatingsByRater(java.lang.String)
+comment5.params=filename\ movieID
+comment5.target=void\ findRatingsOfMovie(java.lang.String,\ java.lang.String)
+comment6.params=filename
+comment6.target=void\ countRatedMovies(java.lang.String)
+comment7.params=
+comment7.target=void\ test()
+comment8.params=filename
+comment8.target=void\ testLoadMovies(java.lang.String)
+comment9.params=filename
+comment9.target=void\ testLoadRaters(java.lang.String)
+numComments=10
